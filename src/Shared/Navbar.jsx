@@ -49,7 +49,7 @@ const Navbar = () => {
                     <ul
                         tabIndex={0}
                         className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 shadow">
-                        <h5 className='mb-1 ml-3 font-bold'>{user?.displayName}</h5>
+                        <h5 className='mb-1 ml-3 text-lg font-bold'>{user?.displayName}</h5>
                         <p className='ml-3 font-semibold mb-3'>email: {user?.email}</p>
                         <li onClick={handleLogOut}><a className='btn'>Logout</a></li>
                     </ul>
