@@ -13,6 +13,7 @@ import 'swiper/css/navigation';
 // import required modules
 import { ToastContainer, toast } from "react-toastify";
 import Swipers from "./Swipers";
+import { Helmet } from "react-helmet";
 
 
 const Home = () => {
@@ -33,6 +34,9 @@ const Home = () => {
     }
     return (
         <>
+        <Helmet>
+            <title>Best Estates</title>
+        </Helmet>
             <Swipers></Swipers>
             <ShowingHouses></ShowingHouses>
 

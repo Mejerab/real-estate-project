@@ -1,3 +1,4 @@
+import { Helmet } from "react-helmet";
 import { ToastContainer, toast } from "react-toastify";
 
 const Visit = () => {
@@ -22,6 +23,9 @@ const Visit = () => {
     }
     return (
         <div>
+            <Helmet>
+                <title>Best Estates || Contact us</title>
+            </Helmet>
             <h3 className="p-6 rounded-2xl ml-2 mr-3 bg-[#3D52A0] text-white font-bold text-center text-2xl my-3">Contact us</h3>
             <div className="flex border ml-2 mr-3 rounded-2xl my-6 h-[300px]">
                 <div className="border-r border-gray-400 border-dotted w-1/2 text-center flex flex-col justify-center">

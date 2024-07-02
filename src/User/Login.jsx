@@ -5,6 +5,7 @@ import { Link, useLocation, useNavigate } from "react-router-dom";
 import { AuthContext } from "../Providers/AuthProvider";
 import { GoogleAuthProvider } from "firebase/auth";
 import { ToastContainer, toast } from "react-toastify";
+import { Helmet } from "react-helmet";
 
 const googleProvider = new GoogleAuthProvider();
 const Login = () => {
@@ -59,6 +60,9 @@ const Login = () => {
     }
     return (
         <div className="w-[37%] mx-auto border rounded-2xl px-5 my-3">
+            <Helmet> 
+            <title>Best Estates || Login</title>
+        </Helmet>
             <form onSubmit={handleLogin} className="card-body -mb-5">
                 <h3 className="font-bold text-xl underline text-center">Login</h3>
                 <div className="form-control">
