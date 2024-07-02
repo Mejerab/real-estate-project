@@ -13,6 +13,6 @@ Live site url: [text](https://real-estate-a9bf2.web.app/)
 
 # NPM packages
 I have used:-
-           * AOS Package
-           * Animate CSS
-           * Swiper Slider
+           * AOS Package in home page cards
+           * Animate CSS in hero text & best houses headline
+           * Swiper Slider in hero section
