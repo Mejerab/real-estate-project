@@ -38,13 +38,13 @@ const SingleHouseProperty = () => {
             <div className="bg-[#3D52A0] text-white p-6 ml-2 mr-3 mt-6 rounded-2xl">
                 <h4 className="text-2xl font-bold text-center">Single House No.{id}</h4>
             </div>
-            <div className="border w-fit relative rounded-2xl grid grid-cols-2 gap-x-6 ml-2 mr-3 my-6">
+            <div className="border w-fit relative rounded-2xl grid xl:grid-cols-2 gap-x-6 ml-2 mr-3 my-6">
                 <div id="nothing" className="bg-[#ffffffCC] z-20 w-full h-full absolute top-0 left-0 hidden"></div>
                 <div className="z-10">
                     <img src={house_image} className="rounded-s-2xl h-full" alt="" />
 
                 </div>
-                <div className="flex flex-col justify-center py-10">
+                <div className="flex flex-col justify-center py-10 ml-5">
                     <h3 className="text-2xl font-bold mb-3">{name}</h3>
                     {
                         description.length > 60 ? <p className="font-semibold">{description.slice(0, 60)} <br /> {description.slice(60, 500)}</p> : <p className="font-semibold">{description}</p>

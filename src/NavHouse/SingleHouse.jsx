@@ -12,7 +12,7 @@ const SingleHouse = () => {
     }, [])
     
     return (
-        <div className="grid grid-cols-1 lg:grid-cols-3 gap-y-8 my-8">
+        <div className="grid grid-cols-1 lg:grid-cols-2 xl:ml-0 ml-10 xl:grid-cols-3 gap-y-8 my-8">
             {
                 houseData.map(house=><AgainSIngleHouse key={house.id} house={house}></AgainSIngleHouse>)
             }

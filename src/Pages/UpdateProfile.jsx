@@ -32,7 +32,7 @@ const UpdateProfile = () => {
         </Helmet>
             <div>
                 <h3 className="p-6 text-center text-2xl font-bold bg-[#3D52A0] text-white ml-2 mr-3 rounded-2xl my-3">Update your profile</h3>
-                <div className="border rounded-2xl w-3/4 lg:w-[35%] my-5 mx-auto">
+                <div className="border rounded-2xl w-3/4 lg:w-1/2 xl:w-[35%] my-5 mx-auto">
                     <h5 className="text-center font-bold text-xl underline text-bold mt-5">Make some changes</h5>
                     <form onSubmit={handleSubmit} className="card-body">
                         <div className="form-control my-2">
