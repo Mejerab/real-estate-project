@@ -1,3 +1,4 @@
+import { Helmet } from "react-helmet";
 import { Link, useLoaderData, useParams } from "react-router-dom";
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
@@ -27,13 +28,16 @@ const Property = () => {
     }
     return (
         <div>
+            <Helmet>
+                <title>Best Estates || House: {`${id}`}</title>
+            </Helmet>
             <div id="nothing2" className="relative top-72 z-50 hidden">
                 <h2 className="text-4xl absolute top-1/2 -rotate-[17deg] font-bold text-white bg-[#dc2626E6] w-full text-center p-6">Sold</h2>
             </div>
             <div className="bg-[#3D52A0] text-white p-6 ml-2 mr-3 mt-6 rounded-2xl">
                 <h4 className="text-2xl font-bold text-center">House No.{id}</h4>
             </div>
-            <div className="border relative w-fit rounded-2xl grid grid-cols-2 gap-x-6 ml-2 mr-3 my-6">
+            <div className="border relative w-fit rounded-2xl grid lg:grid-cols-2 gap-x-6 ml-2 mr-3 my-6">
             <div id="nothing" className="bg-[#ffffffCC] z-20 w-full h-full absolute top-0 left-0 hidden"></div>
                 <div>
                     <img src={image} className="rounded-s-2xl h-full" alt="" />

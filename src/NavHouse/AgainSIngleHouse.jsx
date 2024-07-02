@@ -13,9 +13,9 @@ const AgainSIngleHouse = ({house}) => {
         navigate(`/single-family/${id}`)
     }
     return (
-        <div data-aos="fade-up" className="card w-[580px] lg:mx-0 mx-auto bg-base-100 lg:w-[410px] shadow-xl" >
+        <div className="card w-[500px] lg:mx-0 mx-auto bg-base-100 lg:w-[410px] shadow-xl" >
             <figure>
-                <img className="w-[580px] lg:w-fit h-[300px]"
+                <img className="w-full lg:w-fit h-[300px]"
                     src={house_image}
                     alt="HOUSE" />
             </figure>

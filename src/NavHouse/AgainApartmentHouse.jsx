@@ -7,9 +7,9 @@ const AgainApartmentHouse = ({house}) => {
         navigate(`/apartment/${id}`)
     }
     return (
-        <div data-aos="fade-up" className="card bg-base-100 w-[580px] lg:mx-0 mx-auto lg:w-[410px] shadow-xl" >
+        <div className="card bg-base-100 w-[500px] lg:mx-0 mx-auto lg:w-[410px] shadow-xl" >
             <figure>
-                <img className="lg:w-fit w-[580px] h-[300px]"
+                <img className="lg:w-fit w-full h-[300px]"
                     src={house_image}
                     alt="HOUSE" />
             </figure>

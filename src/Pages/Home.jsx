@@ -50,11 +50,11 @@ const Home = () => {
                 <FcBbc className="text-9xl textblack ml-12 text-black" />
             </Marquee>
             <h3 className="text-center mt-12 my-3 text-black font-bold text-4xl">Our Location</h3>
-            <div className="border flex p-6 rounded-2xl my-7 ml-2 mr-3">
+            <div className="border flex lg:flex-row flex-col p-6 rounded-2xl my-7 ml-2 mr-3">
                 <div className="w-1/2">
                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1267074.1879280726!2d-78.49603012225096!3d42.47038673795673!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54eab584e432360b%3A0x1c3bb99243deb742!2sUnited%20States!5e0!3m2!1sen!2sbd!4v1719795624571!5m2!1sen!2sbd" width="600" height="450" ></iframe>
                 </div>
-                <div className="w-1/2 flex flex-col justify-center">
+                <div className="lg:w-1/2 w-full mg:mt-0 mt-7 flex flex-col justify-center">
                     <h4 className="text-xl text-black text-center mb-2 font-bold">Send a message</h4>
                     <form onSubmit={handleSubmit}>
                         <div className="form-control border rounded-2xl mx-8">

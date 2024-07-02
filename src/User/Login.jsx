@@ -59,7 +59,7 @@ const Login = () => {
             })
     }
     return (
-        <div className="w-[37%] mx-auto border rounded-2xl px-5 my-3">
+        <div className="w-3/4 lg:w-[37%] mx-auto border rounded-2xl px-5 my-6">
             <Helmet> 
             <title>Best Estates || Login</title>
         </Helmet>

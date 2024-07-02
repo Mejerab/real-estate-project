@@ -14,9 +14,9 @@ const House = ({ house }) => {
     }
     return (
         <div data-aos="fade-up">
-            <div className="card bg-base-100 mx-auto lg:mx-0 lg:w-96 shadow-xl h-fit mb-12">
+            <div className="card bg-base-100 mx-auto lg:mx-0 lg:w-96 w-[500px] shadow-xl h-fit mb-12">
                 <figure className="h-1/2 lg:w-fit ml-1">
-                    <img className="h-[250px]"
+                    <img className="h-[300px] lg:h-[250px] lg:w-fit w-full"
                         src={image}
                         alt="house image" />
                 </figure>
