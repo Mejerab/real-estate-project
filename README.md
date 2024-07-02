@@ -1,8 +1,18 @@
-# React + Vite
+# Best Estates
+url: [text](https://real-estate-a9bf2.web.app/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1. An intuitive and responsive design that ensures a seamless browsing experience on both desktop and mobile devices, including features like saved searches, favorite listings, and personalized recommendations.
 
-Currently, two official plugins are available:
+2. Detailed descriptions, high-quality images, and virtual tours of available properties including homes, apartments, commercial spaces, and land.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+3. Options for users to create accounts and manage their property searches efficiently.
+
+4. Features that allow users to share property listings on social media platforms, and the ability to follow the website’s social media accounts for updates on new listings and market trends.
+
+5. Secure portals for users to upload and manage their personal informations like their name, photo, email and password.
+
+# NPM packages
+I have used:-
+           * AOS Package
+           * Animate CSS
+           * Swiper Slider
