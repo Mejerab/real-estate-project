@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "name": "Sunny Side Villa",
+        "status": "For Sale",
+        "area": "3000 sqft",
+        "location": "Los Angeles, CA",
+        "price": "$1,200,000",
+        "house_facilities": [
+            "3 Bedrooms",
+            "2 Bathrooms",
+            "Swimming Pool",
+            "Garage"
+        ],
+        "description": "A beautiful villa with a spacious backyard and modern amenities.",
+        "house_image": "https://plus.unsplash.com/premium_photo-1680300960892-bd11b59b469b?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 2,
+        "name": "Maple Street House",
+        "status": "For Rent",
+        "area": "1800 sqft",
+        "location": "Portland, OR",
+        "price": "$3,000/month",
+        "house_facilities": [
+            "2 Bedrooms",
+            "1 Bathroom",
+            "Garden",
+            "Basement"
+        ],
+        "description": "A cozy house located in a quiet neighborhood, perfect for small families.",
+        "house_image": "https://plus.unsplash.com/premium_photo-1694475731860-1fe1cb7a1897?q=80&w=1467&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 3,
+        "name": "Lakeside Cottage",
+        "status": "For Sale",
+        "area": "2500 sqft",
+        "location": "Lake Tahoe, NV",
+        "price": "$950,000",
+        "house_facilities": [
+            "4 Bedrooms",
+            "3 Bathrooms",
+            "Lake View",
+            "Fireplace"
+        ],
+        "description": "A charming cottage with stunning lake views and a cozy fireplace.",
+        "house_image": "https://images.unsplash.com/photo-1529365551659-00b660362d04?q=80&w=1482&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 4,
+        "name": "Green Acres Estate",
+        "status": "For Sale",
+        "area": "4500 sqft",
+        "location": "Austin, TX",
+        "price": "$1,500,000",
+        "house_facilities": [
+            "5 Bedrooms",
+            "4 Bathrooms",
+            "Swimming Pool",
+            "Large Garden"
+        ],
+        "description": "A luxurious estate with extensive gardens and a private swimming pool.",
+        "house_image": "https://images.unsplash.com/photo-1516281717304-181e285c6e58?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 5,
+        "name": "Urban Loft House",
+        "status": "For Rent",
+        "area": "1600 sqft",
+        "location": "New York, NY",
+        "price": "$4,200/month",
+        "house_facilities": [
+            "3 Bedrooms",
+            "2 Bathrooms",
+            "Rooftop Access",
+            "Modern Kitchen"
+        ],
+        "description": "A modern loft-style house in the heart of the city with rooftop access.",
+        "house_image": "https://images.unsplash.com/photo-1630908932803-1f6891bfab3f?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 6,
+        "name": "Hillside Manor",
+        "status": "For Sale",
+        "area": "3200 sqft",
+        "location": "Denver, CO",
+        "price": "$980,000",
+        "house_facilities": [
+            "4 Bedrooms",
+            "3 Bathrooms",
+            "Mountain View",
+            "Garage"
+        ],
+        "description": "A spacious manor with breathtaking mountain views and modern amenities.",
+        "house_image": "https://images.unsplash.com/photo-1588880331179-bc9b93a8cb5e?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 7,
+        "name": "Beachfront Bungalow",
+        "status": "For Sale",
+        "area": "2800 sqft",
+        "location": "Miami, FL",
+        "price": "$1,800,000",
+        "house_facilities": [
+            "3 Bedrooms",
+            "2 Bathrooms",
+            "Ocean View",
+            "Private Beach Access"
+        ],
+        "description": "A charming bungalow with direct access to a private beach and stunning ocean views.",
+        "house_image": "https://plus.unsplash.com/premium_photo-1682285210821-5d1b5a406b97?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 8,
+        "name": "Country Farmhouse",
+        "status": "For Rent",
+        "area": "2100 sqft",
+        "location": "Nashville, TN",
+        "price": "$2,800/month",
+        "house_facilities": [
+            "4 Bedrooms",
+            "2 Bathrooms",
+            "Barn",
+            "Large Yard"
+        ],
+        "description": "A rustic farmhouse with a large yard and a barn, perfect for country living.",
+        "house_image": "https://images.unsplash.com/photo-1530734218972-25a9391ccd8b?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 9,
+        "name": "City Park Residence",
+        "status": "For Sale",
+        "area": "2300 sqft",
+        "location": "Seattle, WA",
+        "price": "$1,100,000",
+        "house_facilities": [
+            "3 Bedrooms",
+            "2 Bathrooms",
+            "Park View",
+            "Garage"
+        ],
+        "description": "A contemporary house with a beautiful view of the nearby park and modern facilities.",
+        "house_image": "https://plus.unsplash.com/premium_photo-1681338224373-9669c2497c05?q=80&w=1407&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+]

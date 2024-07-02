@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "name": "Sunset Villa",
+        "description": "A beautiful villa with a stunning view of the sunset.",
+        "house_image": "https://images.pexels.com/photos/13620066/pexels-photo-13620066.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "type": "Villa",
+        "price": "$750000",
+        "area": "3200 sq ft",
+        "location": "California, USA",
+        "house_facilities": [
+            "Swimming Pool",
+            "Gym",
+            "Garden"
+        ],
+        "status": "For Sale"
+    },
+    {
+        "id": 2,
+        "name": "Downtown Loft",
+        "description": "A modern loft in the heart of the city.",
+        "house_image": "https://images.pexels.com/photos/26442686/pexels-photo-26442686/free-photo-of-windows-of-office-building.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "type": "Loft",
+        "price": "$450000",
+        "area": "1500 sq ft",
+        "location": "New York, USA",
+        "house_facilities": [
+            "Rooftop Terrace",
+            "Concierge",
+            "Fitness Center"
+        ],
+        "status": "For Sale"
+    },
+    {
+        "id": 3,
+        "name": "Lakeside Apartment",
+        "description": "A cozy apartment with a view of the lake.",
+        "house_image": "https://media-cdn.tripadvisor.com/media/vr-splice-j/05/d8/07/b2.jpg",
+        "type": "Apartment",
+        "price": "$350000/month",
+        "area": "1200 sq ft",
+        "location": "Chicago, USA",
+        "house_facilities": [
+            "Lake View",
+            "Parking",
+            "Pet Friendly"
+        ],
+        "status": "For Rent"
+    },
+    {
+        "id": 4,
+        "name": "Mountain Retreat",
+        "description": "A tranquil retreat in the mountains.",
+        "house_image": "https://images.pexels.com/photos/221502/pexels-photo-221502.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "type": "Cabin",
+        "price": "$600000",
+        "area": "2800 sq ft",
+        "location": "Colorado, USA",
+        "house_facilities": [
+            "Fireplace",
+            "Hiking Trails",
+            "Hot Tub"
+        ],
+        "status": "For Sale"
+    },
+    {
+        "id": 5,
+        "name": "Urban Studio",
+        "description": "A compact studio in a vibrant neighborhood.",
+        "house_image": "https://images.pexels.com/photos/21047651/pexels-photo-21047651/free-photo-of-stone-wall-of-vintage-building-in-town.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "type": "Studio",
+        "price": "$200000/month",
+        "area": "600 sq ft",
+        "location": "San Francisco, USA",
+        "house_facilities": [
+            "Proximity to Public Transport",
+            "24/7 Security",
+            "Laundry Facilities"
+        ],
+        "status": "For Rent"
+    },
+    {
+        "id": 6,
+        "name": "Beachfront Condo",
+        "description": "A luxurious condo right on the beach.",
+        "house_image": "https://images.pexels.com/photos/323775/pexels-photo-323775.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "type": "Condo",
+        "price": "$800000",
+        "area": "2000 sq ft",
+        "location": "Miami, USA",
+        "house_facilities": [
+            "Ocean View",
+            "Swimming Pool",
+            "Private Beach Access"
+        ],
+        "status": "For Sale"
+    },
+    {
+        "id": 7,
+        "name": "Suburban House",
+        "description": "A spacious house in a quiet suburb.",
+        "house_image": "https://images.unsplash.com/photo-1671672899913-ff52fa42b9c7?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "type": "House",
+        "price": "$500000",
+        "area": "2500 sq ft",
+        "location": "Texas, USA",
+        "house_facilities": [
+            "Backyard",
+            "Garage",
+            "Community Park"
+        ],
+        "status": "For Sale"
+    },
+    {
+        "id": 8,
+        "name": "Historic Townhouse",
+        "description": "A charming townhouse with historical significance.",
+        "house_image": "https://plus.unsplash.com/premium_photo-1715118690373-c732a99a6cf4?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "type": "Townhouse",
+        "price": "$550000/month",
+        "area": "2200 sq ft",
+        "location": "Boston, USA",
+        "house_facilities": [
+            "Historic Architecture",
+            "Proximity to Landmarks",
+            "Patio"
+        ],
+        "status": "For Rent"
+    },
+    {
+        "id": 9,
+        "name": "Countryside Cottage",
+        "description": "A peaceful cottage in the countryside.",
+        "house_image": "https://images.unsplash.com/photo-1579627559241-aa855a66df15?q=80&w=1431&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "type": "Cottage",
+        "price": "$400000",
+        "area": "1800 sq ft",
+        "location": "Vermont, USA",
+        "house_facilities": [
+            "Garden",
+            "Fireplace",
+            "Scenic Views"
+        ],
+        "status": "For Sale"
+    }
+]

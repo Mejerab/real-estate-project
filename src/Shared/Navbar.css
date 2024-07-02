@@ -1,0 +1,6 @@
+.nothing span {
+    transition-delay: 3s;
+}
+.nothing:hover span {
+    display: block;
+}

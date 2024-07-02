@@ -1,0 +1,15 @@
+.card-after::after{
+    content: "";
+    background-color: #ffffffCC;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 30;
+    margin-left: 8px;
+    margin-right: 16px;
+    width: 100%;
+    height: 100%;
+}
+.card-after{
+    position: relative;
+}

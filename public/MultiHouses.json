@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "name": "Maple Apartments",
+        "house_image": "https://images.unsplash.com/photo-1469022563428-aa04fef9f5a2?q=80&w=1473&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "type": "Multi-family",
+        "status": "For Sale",
+        "area": "1200 sqft",
+        "location": "123 Maple Street, Springfield",
+        "price": "$250,000",
+        "house_facilities": [
+            "Gym",
+            "Swimming Pool",
+            "Parking"
+        ],
+        "description": "A beautiful multi-family house with modern amenities and spacious living areas."
+    },
+    {
+        "id": 2,
+        "name": "Oak Residences",
+        "house_image": "https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "type": "Multi-family",
+        "status": "For Rent",
+        "area": "1500 sqft",
+        "location": "456 Oak Avenue, Rivertown",
+        "price": "$300,000/month",
+        "house_facilities": [
+            "Garden",
+            "Playground",
+            "Security"
+        ],
+        "description": "A luxurious multi-family residence located in a serene environment."
+    },
+    {
+        "id": 3,
+        "name": "Pineview Estates",
+        "house_image": "https://images.unsplash.com/photo-1719299225324-301bad5c333c?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "type": "Multi-family",
+        "status": "For Sale",
+        "area": "1400 sqft",
+        "location": "789 Pineview Road, Lake City",
+        "price": "$275,000",
+        "house_facilities": [
+            "Gym",
+            "Parking",
+            "Community Hall"
+        ],
+        "description": "An elegant multi-family estate with a beautiful view and top-notch facilities."
+    },
+    {
+        "id": 4,
+        "name": "Cedar Heights",
+        "house_image": "https://images.pexels.com/photos/21722884/pexels-photo-21722884/free-photo-of-tree-growing-in-front-of-a-house.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "type": "Multi-family",
+        "status": "For Sale",
+        "area": "1600 sqft",
+        "location": "321 Cedar Lane, Hilltown",
+        "price": "$320,000",
+        "house_facilities": [
+            "Swimming Pool",
+            "Security",
+            "Parking"
+        ],
+        "description": "A modern multi-family house with spacious rooms and a friendly community."
+    },
+    {
+        "id": 5,
+        "name": "Birchwood Flats",
+        "house_image": "https://images.unsplash.com/photo-1534113356284-9aa4ea943778?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "type": "Multi-family",
+        "status": "For Rent",
+        "area": "1300 sqft",
+        "location": "654 Birchwood Drive, Forestville",
+        "price": "$280,000/month",
+        "house_facilities": [
+            "Gym",
+            "Community Hall",
+            "Garden"
+        ],
+        "description": "A new multi-family housing project offering contemporary living spaces."
+    },
+    {
+        "id": 6,
+        "name": "Willow Grove",
+        "house_image": "https://images.unsplash.com/photo-1596036985941-ff15d1d9b677?q=80&w=1472&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "type": "Multi-family",
+        "status": "For Rent",
+        "area": "1250 sqft",
+        "location": "987 Willow Street, Meadowbrook",
+        "price": "$265,000/month",
+        "house_facilities": [
+            "Playground",
+            "Parking",
+            "Security"
+        ],
+        "description": "A charming multi-family house located in a peaceful neighborhood."
+    },
+    {
+        "id": 7,
+        "name": "Redwood Commons",
+        "house_image": "https://images.unsplash.com/photo-1434434319959-1f886517e1fe?q=80&w=1631&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "type": "Multi-family",
+        "status": "For Sale",
+        "area": "1700 sqft",
+        "location": "111 Redwood Circle, Seaside",
+        "price": "$340,000",
+        "house_facilities": [
+            "Swimming Pool",
+            "Gym",
+            "Parking"
+        ],
+        "description": "A spacious multi-family residence with a variety of amenities and a great location."
+    },
+    {
+        "id": 8,
+        "name": "Spruce Villas",
+        "house_image": "https://images.pexels.com/photos/1488327/pexels-photo-1488327.png?auto=compress&cs=tinysrgb&w=600",
+        "type": "Multi-family",
+        "status": "For Rent",
+        "area": "1350 sqft",
+        "location": "222 Spruce Lane, Greentown",
+        "price": "$290,000/month",
+        "house_facilities": [
+            "Garden",
+            "Playground",
+            "Community Hall"
+        ],
+        "description": "A new multi-family villa complex designed for comfort and convenience."
+    },
+    {
+        "id": 9,
+        "name": "Elm Court",
+        "house_image": "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "type": "Multi-family",
+        "status": "For Sale",
+        "area": "1450 sqft",
+        "location": "333 Elm Street, Downtown",
+        "price": "$310,000",
+        "house_facilities": [
+            "Gym",
+            "Security",
+            "Parking"
+        ],
+        "description": "A stylish multi-family house located in the heart of the city with excellent amenities."
+    }
+]
